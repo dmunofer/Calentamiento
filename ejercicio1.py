@@ -3,4 +3,4 @@ def bitcoin(m):
     if m<30000:
         print('Tas jodido socio')
     else:
-        print('Vamos parriba lokete')
+        print('Vamos parriba loketeee')
