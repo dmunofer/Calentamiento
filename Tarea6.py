@@ -25,5 +25,5 @@ print("Total basket cost including shipping is " + str(customer_basket_cost))
 #Respuesta a la segunda pregunta: Free shipping!
 #                                 Total basket cost including shipping is 101
 
-
+#Link al diagrama de flujo: https://www.figma.com/file/KB29idTea0bAiHasrJonjQ/Tarea6DiagramaFlujo?node-id=0%3A1
 
