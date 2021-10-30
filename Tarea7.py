@@ -26,4 +26,7 @@ elif edad>=0 and edad<85:
 else:
     print("Intoduce una edad válida")
 
+for i in range(5):
+    print(i)
 
+#Link del diagrama de flujo: https://www.figma.com/file/6zDkKvtZp8LRyER3rKKa3p/Untitled?node-id=0%3A1
